@@ -45,4 +45,11 @@ Los experimentos mostraron que **RoBERTa Twitter** obtuvo el mejor desempeño ge
 - Pandas
 - Matplotlib
 
+### Estructura del proyecto
 
+```text
+├── ACTIVIDAD_4_Gestion_de_Proyectos_de_Inteligencia_Artificial.ipynb
+├── reporte_tecnico_huggingface_sentimiento_extenso.docx
+├── resultados/
+├── figuras/
+└── README.md
